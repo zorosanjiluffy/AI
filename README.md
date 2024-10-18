@@ -37,7 +37,7 @@ You can see the assistant in action by opening the `index.html` file in your bro
 
 ### **Screenshot**:
 
-![Sample Image](https://im.ge/i/Screenshot-2024-10-18-181450.kC1IDY)
+![Sample Image](https://im.ge/i/Screenshot-2024-10-18-181450.png)
 
 ### **Live Demo**:
 
